@@ -1,0 +1,29 @@
+{
+  "name": "com.vwds.webisva",
+  "version": "0.25.9",
+  "displayName": "Webis Voice Assistant ",
+  "description": "This package utilizes Webis voice assistant designed for MetaReal",
+  "unity": "2021.3",
+  "unityRelease": "31f1",
+  "documentationUrl": "https://github.com/VWDG-TU-Ilmenau/com.vwds.webisva/wiki",
+  "changelogUrl": "https://github.com/VWDG-TU-Ilmenau/com.vwds.twinalign/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/VWDG-TU-Ilmenau/com.vwds.twinalign/blob/main/LICENSE.md",
+  "dependencies": {
+    "com.unity.textmeshpro": "3.0.6"
+ },
+ "keywords": [
+    "voice",
+    "assistant",
+    "knowledge",
+    "graph"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VWDG-TU-Ilmenau/com.vwds.webisva.git"
+  },
+  "author": {
+    "name": "Virtual Worlds and Digital Games Research Group - Technische Universit\u00e4t Ilmenau",
+    "email": "vwds-wm@tu-ilmenau.de",
+    "url": "https://www.tu-ilmenau.de/en/university/departments/department-of-economic-sciences-and-media/profile/institutes-and-groups/group-virtual-worlds-and-digital-games-group"
+  }
+}
