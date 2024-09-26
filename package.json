@@ -1,6 +1,6 @@
 {
   "name": "com.vwds.webisva",
-  "version": "0.24.9.26",
+  "version": "0.9.26",
   "displayName": "Webis Voice Assistant ",
   "description": "This package utilizes Webis voice assistant designed for MetaReal",
   "unity": "2021.3",
