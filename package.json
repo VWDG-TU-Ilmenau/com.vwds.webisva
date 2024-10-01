@@ -25,5 +25,12 @@
     "name": "Virtual Worlds and Digital Games Research Group - Technische Universit\u00e4t Ilmenau",
     "email": "vwds-wm@tu-ilmenau.de",
     "url": "https://www.tu-ilmenau.de/en/university/departments/department-of-economic-sciences-and-media/profile/institutes-and-groups/group-virtual-worlds-and-digital-games-group"
-  }
+  },
+  "samples": [
+    {
+      "displayName": "WebisVA Sample Scene",
+      "description": "An example of the interactions with WebisVA",
+      "path": "Samples~/Default Sample Scene"
+    }
+  ]
 }
